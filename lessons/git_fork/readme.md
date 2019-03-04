@@ -57,5 +57,5 @@ Here's your first chance to practice this:
 
 What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emoji-cheat-sheet.com/).)
 
->> :notes:
+My favorite emoji is :notes:. When you're texting somebody and you want to make it clear that you're referencing a song, this puts the music in their ears!
 
