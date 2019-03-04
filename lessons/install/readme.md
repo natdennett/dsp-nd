@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+I installed Python 3 before starting the Metis online course earlier this year. I didn't give it too much thought--after all, that's what the pre-work for the online course recommended, too!
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+I have Python version 3.7.1 installed on my computer.
 
  
 
