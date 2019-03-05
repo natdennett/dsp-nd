@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
-I have Python version 3.7.1 installed on my computer.
+>> I have Python version 3.7.1 installed on my computer.
 EDIT: After updating, I now have 3.7.2 installed.
 
  
